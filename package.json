@@ -1,0 +1,15 @@
+{
+  "name": "Fablr",
+  "version": "0.0.1",
+  "author": "Us",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }  
+}
